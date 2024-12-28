@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Uso - Agrolunar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom, #0d1b2a, #1b263b);
+            color: #e0e1dd;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #3d5a80;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+        }
+
+        main {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+        }
+
+        h1, h2 {
+            color: #ffffff;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        ul, ol {
+            list-style-position: inside;
+        }
+
+        ul {
+            padding: 0;
+        }
+
+        li {
+            margin: 10px 0;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            color: #e0e1dd;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        li:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+            transform: translateY(-5px);
+        }
+
+        footer {
+            background: #3d5a80;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+        }
+
+        a {
+            color: #00b4d8;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Guía de Uso - Agrolunar</h1>
+    </header>
+    <main>
+        <h2>¿Qué es Agrolunar?</h2>
+        <p>Agrolunar es una herramienta diseñada especialmente para ayudarte a planificar y ejecutar tus actividades agrícolas basándote en las fases de la luna. La aplicación te brinda información precisa sobre qué hacer según el cultivo que trabajas y la fase lunar actual.</p>
+
+        <h2>Funciones Principales</h2>
+        <ul>
+            <li><strong>Consulta de actividades agrícolas según tu cultivo:</strong> Ingresa el cultivo de tu interés en la sección correspondiente y obtén actividades recomendadas de acuerdo con la fase lunar actual.</li>
+            <li><strong>Calendario lunar detallado:</strong> Consulta la fase actual de la luna en la sección <em>Calendario Lunar</em> y verifica cuánto tiempo falta para que termine.</li>
+            <li><strong>Notificaciones oportunas:</strong> Recibe recordatorios para planificar tus actividades con base en los cambios de fase lunar.</li>
+            <li><strong>Interfaz intuitiva:</strong> Navega fácilmente por la aplicación, diseñada para ser práctica y accesible para todos.</li>
+        </ul>
+
+        <h2>¿Cómo usar Agrolunar?</h2>
+        <ol>
+            <li><strong>Consulta el calendario lunar:</strong> Dirígete a la sección de <em>Calendario Lunar</em> para identificar la fase actual de la luna y cuánto tiempo falta para que termine. El calendario te indicará cuánto falta para que finalice la fase actual. Deberás analizar las fases lunares próximas para descubrir cuál sigue. Por ejemplo, si faltan 3 días para que finalice la luna llena, aún estás a tiempo de realizar las actividades de la fase siguiente, que en este caso serían las de la luna menguante.</li>
+            <li><strong>Planea tus actividades agrícolas:</strong> Selecciona el cultivo que deseas gestionar y revisa las actividades recomendadas.</li>
+            <li><strong>Prepara tus tareas con anticipación:</strong> Realiza las actividades agrícolas tres días antes de que comience la nueva fase lunar.</li>
+        </ol>
+
+        <h2>Consejos para mejorar tu productividad</h2>
+        <ul>
+            <li><strong>Planea con tiempo:</strong> Organiza tus actividades con antelación.</li>
+            <li><strong>Actúa en el momento adecuado:</strong> Realiza las actividades tres días antes de la nueva fase lunar.</li>
+            <li><strong>Mantén las notificaciones activas:</strong> No pierdas de vista los cambios importantes en las fases lunares.</li>
+        </ul>
+
+        <h2>Soporte técnico</h2>
+        <p>Si necesitas ayuda o tienes sugerencias, contáctanos:</p>
+        <p><strong>Correo:</strong> <a href="mailto:appsagricolas6@gmail.com">appsagricolas6@gmail.com</a></p>
+        <p><strong>Con Agrolunar, trabajas con la naturaleza para maximizar tus resultados agrícolas.</strong></p>
+    </main>
+    <footer>
+        <p>© 2024 Agrolunar. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
